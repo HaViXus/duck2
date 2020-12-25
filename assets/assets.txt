@@ -1,0 +1,15 @@
+d:assets:0:application/unknown
+i:badlogic.jpg:68465:image/jpeg
+b:Blocks.tsx:234:application/unknown
+i:duck.png:1472:image/png
+i:field256.png:1477:image/png
+b:field256.xcf:51442:application/unknown
+b:map.tmx:21023:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:6084:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:9441:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:904:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:3056:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png
