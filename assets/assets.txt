@@ -1,7 +1,7 @@
 d:assets:0:application/unknown
 i:badlogic.jpg:68465:image/jpeg
 b:Blocks.tsx:234:application/unknown
-i:duck.png:1472:image/png
+i:duck.png:9107:image/png
 i:field256.png:1477:image/png
 b:field256.xcf:51442:application/unknown
 b:map.tmx:21023:application/unknown
